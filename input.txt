@@ -1,0 +1,4 @@
+This is a sample text for testing.
+It contains multiple lines.
+Each line will be read and its character count will be printed.
+The program should exclude whitespaces when counting characters.
